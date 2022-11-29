@@ -1,0 +1,126 @@
+body{
+  font-family: "Montserrat"
+}
+#title{
+  background-color: #FF5D5D;
+  color: #fff;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+h1{
+  font-size: "Montserrat-Bold";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+  margin: auto;
+
+}
+h3{
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+
+}
+p{
+color: #8f8f8f;
+}
+.img-responsive{
+  padding-left:30rem;
+  padding-bottom: 25rem;
+  width: 120%;
+  height: 50%;
+
+}
+.petroleum-image{
+  width: 50%;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Dark";
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+#features{
+  padding: 7% 15%;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* form CSS */
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.reg {
+  flex: auto;
+  text-align: center;
+  background-color:rgb(164, 28, 28);
+}
+
+.form_cont {
+  padding: 2%;
+  margin: 10%;
+  margin-top: 0%;
+  text-align: center;
+  background: white;
+}
+
+.form_cont input{
+  width: 40%;
+  border: none;
+  border-bottom: 2px solid lightgrey;
+
+}
+
+.footer{
+  display: flex;
+  flex-direction: column;
+}
+
+ .finfo{
+  width: 100%;
+  background-color: black;
+  color: white;
+
+ }
